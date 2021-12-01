@@ -19,7 +19,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'store.apps.StoreConfig',
-    'basket',
+    'basket.apps.BasketConfig',
 ]
 
 MIDDLEWARE = [
